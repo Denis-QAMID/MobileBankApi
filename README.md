@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3s0maegmjews0qcj?svg=true)](https://ci.appveyor.com/project/Denis-QAMID/mobilebankapi)
